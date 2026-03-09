@@ -1,8 +1,5 @@
 flask
 gunicorn
-pandas
 pytz
-python-telegram-bot==20.8
-requests
-beautifulsoup4
 binance-connector
+python-telegram-bot==20.8
