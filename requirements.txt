@@ -1,5 +1,4 @@
 flask
 gunicorn
+yfinance
 pytz
-binance-connector
-python-telegram-bot==20.8
